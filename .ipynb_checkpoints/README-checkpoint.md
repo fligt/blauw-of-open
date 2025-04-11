@@ -1,16 +1,16 @@
+# blauw-of-open
+Enkele ambtelijke gedachten over open source  
 
-# Blauw of Open? - De Uitdaging van Open Source in de Praktijk 
 
-*Enkele ambtelijke gedachten over open source in de Rijksdienst voor het Cultureel Erfgoed*
+# 
 
-**Auteurs: Sablina Vis en Frank Ligterink**
+# De Uitdaging van Open Source in de Praktijk
+
+Sablina en Frank: 2x linux versus 398x windows
 
 ## Hakblok 
 
-[1](#myfootnote1)
-
-
-Tot voor kort beperkte de discussie over het gebruik van Amerikaanse clouddiensten door Nederlandse overheden zich tot de enkele vraag in hoeverre de privacy van de Nederlandse burger gewaarborgd kon worden. Afzonderlijke overheidsdiensten en individuele ambtenaren zoals jij en ik hoefden hierover niet na te denken. Want er is zoiets als het *Rijksbreed Cloudbeleid* en bijvoorbeeld de richtlijn Baseline Informatiebeveiliging Overheid('de BIO') waarmee de privacy gewaarborgd zou zijn. Voor de gemiddelde ambtenaar die gebruik maakt van Microsoft Outlook, Teams en Powerpoint leek bovendien het alsof die cloud nog heel lang heel ver weg zou blijven. Maar niets is minder waar. Want de cloud komt naar ons toe deze zomer! De nieuwste noodzakelijke updates van deze Microsoft Office producten zijn voor hun werking afhankelijk van de Microsoft 365 cloud. Nog geen reden om wakker te worden. Want, werd ons verteld, we zorgen ervoor dat servers op Europese bodem staan, en de EU heeft goede afspraken met de VS over privacy. Bovendien werken we in onze zwaar afgeschermde Blauwe desktop omgeving. We zijn veilig. 
+Tot voor kort beperkte de discussie over het gebruik van Amerikaanse clouddiensten door Nederlandse overheden zich tot de enkele vraag in hoeverre de privacy van de Nederlandse burger gewaarborgd kon worden. Afzonderlijke overheidsdiensten en individuele ambtenaren zoals jij en ik hoefden hierover niet na te denken. Want er is zoiets als het *Rijksbreed Cloudbeleid* en bijvoorbeeld de richtlijn Baseline Informatiebeveiliging Overheid('[de BIO](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/)') waarmee de privacy gewaarborgd zou zijn. Voor de gemiddelde ambtenaar die gebruik maakt van Microsoft Outlook, Teams en Powerpoint leek bovendien het alsof die cloud nog heel lang heel ver weg zou blijven. Maar niets is minder waar. Want de cloud komt naar ons toe deze zomer! De nieuwste noodzakelijke updates van deze Microsoft Office producten zijn voor hun werking afhankelijk van de Microsoft 365 cloud. Nog geen reden om wakker te worden. Want, werd ons verteld, we zorgen ervoor dat servers op Europese bodem staan, en de EU heeft goede afspraken met de VS over privacy. Bovendien werken we in onze zwaar afgeschermde Blauwe desktop omgeving. We zijn veilig. 
 
 En toen was daar Trump. In een online [nieuwsbericht](https://www.rtl.nl/nieuws/economie/artikel/5497862/cloudgebruik-nederlandse-overheid-microsoft-google-amazon) van 10 maart 2025  kopt RTL: *Overheidsdiensten enorm afhankelijk van Amerikaanse cloud: 'Hoofd op hakblok gelegd'.*
 
@@ -31,11 +31,6 @@ Deze trend heeft zich in de loop van de jaren geconsolideerd tot in de haarvaten
 
 Het kan ook anders. De wereld van Open Science laat zien dat enthousiaste onderzoekers wereldwijd creatief met elkaar kunnen samenwerken en problemen kunnen oplossen door open source software te bouwen. De twee solide peilers onder dit succes zijn enerzijds een infrastructuur van vrije en open source software tools, zoals het Linux operating systeem, en anderzijds de open source licenties die garanderen dat iedereen vrij is om open source software te gebruiken, ervan te leren, aan te passen en te delen. In je keuken laten kijken heet dat. Uitproberen, fouten maken, leren, verbeteren. 
 
+https://www.rtl.nl/nieuws/economie/artikel/5497862/cloudgebruik-nederlandse-overheid-microsoft-google-amazon
 
-[1] https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/
-
-
-https://www.rtl.nl/nieuws/economie/artikel/5497862/cloudgebruik-nederlandse-overheid-microsoft-google-amazon 
-
-<a name="myfootnote1">1</a>: Footnote content goes here
-
+@[Frank Ligterink](mention://user/rce.fligterink) Mooie prikkelende tekst. Nu nog de logistiek toevoegen van de college zelf (tijd, dag o.a.). Als je dit gezien heb mag het weg 🙂 
