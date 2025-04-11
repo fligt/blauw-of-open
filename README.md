@@ -39,4 +39,4 @@ https://www.rtl.nl/nieuws/economie/artikel/5497862/cloudgebruik-nederlandse-over
 
 
 
-[^1] mijn voetnoot 
+[^1]: mijn voetnoot 
