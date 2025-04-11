@@ -8,7 +8,7 @@
 ## Hakblok 
 
 
-
+Hier is en voetnoot[^1] 
 
 Tot voor kort beperkte de discussie over het gebruik van Amerikaanse clouddiensten door Nederlandse overheden zich tot de enkele vraag in hoeverre de privacy van de Nederlandse burger gewaarborgd kon worden. Afzonderlijke overheidsdiensten en individuele ambtenaren zoals jij en ik hoefden hierover niet na te denken. Want er is zoiets als het *Rijksbreed Cloudbeleid* en bijvoorbeeld de richtlijn Baseline Informatiebeveiliging Overheid 'de BIO' [[1]](#fn1)  waarmee de privacy gewaarborgd zou zijn. Voor de gemiddelde ambtenaar die gebruik maakt van Microsoft Outlook, Teams en Powerpoint leek bovendien het alsof die cloud nog heel lang heel ver weg zou blijven. Maar niets is minder waar. Want de cloud komt naar ons toe deze zomer! De nieuwste noodzakelijke updates van deze Microsoft Office producten zijn voor hun werking afhankelijk van de Microsoft 365 cloud. Nog geen reden om wakker te worden. Want, werd ons verteld, we zorgen ervoor dat servers op Europese bodem staan, en de EU heeft goede afspraken met de VS over privacy. Bovendien werken we in onze zwaar afgeschermde Blauwe desktop omgeving. We zijn veilig. 
 
@@ -39,3 +39,4 @@ https://www.rtl.nl/nieuws/economie/artikel/5497862/cloudgebruik-nederlandse-over
 
 
 
+[^1] mijn voetnoot 
