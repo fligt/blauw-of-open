@@ -14,7 +14,7 @@ Tot voor kort beperkte de discussie over het gebruik van Amerikaanse clouddienst
 
 
 
-En toen was daar Trump. In een online nieuwsbericht van 10 maart 2025  kopt RTL: *Overheidsdiensten enorm afhankelijk van Amerikaanse cloud: 'Hoofd op hakblok gelegd'.*[^RTL] In een recent [rondetafelgesprek](https://berthub.eu/articles/posts/digitale-soevereiniteit-rijksoverheid-13-februari-2025/) van de Tweede Kamer maken experts zoals Bert Hubert en [Marietje Schaake](https://www.atlascontact.nl/boek/de-tech-coup/) heel duidelijk dat we niet veilig zijn. De Nederlandse overheid is inmiddels vrijwel volledig afhankelijk van diensten van bedrijven uit de VS, dat onder Trump een nieuwe, en onvoorspelbare koers vaart. Het voorbeeld van het Internationaal Strafhof laat zien dat Trump in staat is om met een enkele Executive Order organisaties lam te leggen door sancties op te leggen aan toeleveranciers zoals Microsoft. Niet veilig dus. Daarom moeten we als overheid proberen [de afhankelijkheid van Amerikaanse Big Tech te verkleinen](https://decorrespondent.nl/15937/europa-is-veel-te-afhankelijk-van-amerikaanse-tech-waar-blijft-het-nederlandse-crisisteam-dat-onze-eigen-cloud-optuigt/c40b007b-e05b-02cb-0621-afbdd436514a). 
+En toen was daar Trump. In een online nieuwsbericht van 10 maart 2025  kopt RTL: *Overheidsdiensten enorm afhankelijk van Amerikaanse cloud: 'Hoofd op hakblok gelegd'.* [^RTL] In een recent rondetafelgesprek van de Tweede Kamer[^TK] maken experts zoals Bert Hubert en Marietje Schaake heel duidelijk dat we niet veilig zijn. De Nederlandse overheid is inmiddels vrijwel volledig afhankelijk van diensten van bedrijven uit de VS, dat onder Trump een nieuwe, en onvoorspelbare koers vaart. Het voorbeeld van het Internationaal Strafhof laat zien dat Trump in staat is om met een enkele Executive Order organisaties lam te leggen door sancties op te leggen aan toeleveranciers zoals Microsoft. Niet veilig dus. Daarom moeten we als overheid proberen de afhankelijkheid van Amerikaanse Big Tech te verkleinen[^COR]. 
 
 ## Fuik 
 
@@ -41,4 +41,11 @@ Het kan ook anders. De wereld van Open Science laat zien dat enthousiaste onderz
 
 
 [^RTL]: https://www.rtl.nl/nieuws/economie/artikel/5497862/cloudgebruik-nederlandse-overheid-microsoft-google-amazon 
+
+[^TK]: https://berthub.eu/articles/posts/digitale-soevereiniteit-rijksoverheid-13-februari-2025/ 
+
+[^MS]: https://www.atlascontact.nl/boek/de-tech-coup/ 
+
+[^COR]: https://decorrespondent.nl/15937/europa-is-veel-te-afhankelijk-van-amerikaanse-tech-waar-blijft-het-nederlandse-crisisteam-dat-onze-eigen-cloud-optuigt/c40b007b-e05b-02cb-0621-afbdd436514a)
+
 
