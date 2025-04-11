@@ -5,11 +5,12 @@
 
 **Auteurs: Sablina Vis en Frank Ligterink**
 
-## Hakblok 
 
 Tot voor kort beperkte de discussie over het gebruik van Amerikaanse clouddiensten door Nederlandse overheden zich tot de enkele vraag in hoeverre de privacy van de Nederlandse burger gewaarborgd kon worden. Afzonderlijke overheidsdiensten en individuele ambtenaren zoals jij en ik hoefden hierover niet na te denken. Want er is zoiets als het *Rijksbreed Cloudbeleid* en bijvoorbeeld de richtlijn Baseline Informatiebeveiliging Overheid 'de BIO' [^BIO] waarmee de privacy gewaarborgd zou zijn. Voor de gemiddelde ambtenaar die gebruik maakt van Microsoft Outlook, Teams en Powerpoint leek bovendien het alsof die cloud nog heel lang heel ver weg zou blijven. Maar niets is minder waar. Want de cloud komt naar ons toe deze zomer! De nieuwste noodzakelijke updates van deze Microsoft Office producten zijn voor hun werking afhankelijk van de Microsoft 365 cloud. Nog geen reden om wakker te worden. Want, werd ons verteld, we zorgen ervoor dat servers op Europese bodem staan, en de EU heeft goede afspraken met de VS over privacy. Bovendien werken we in onze zwaar afgeschermde Blauwe desktop omgeving. We zijn veilig. 
 
-En toen was daar Trump. In een online [nieuwsbericht](https://www.rtl.nl/nieuws/economie/artikel/5497862/cloudgebruik-nederlandse-overheid-microsoft-google-amazon) van 10 maart 2025  kopt RTL: *Overheidsdiensten enorm afhankelijk van Amerikaanse cloud: 'Hoofd op hakblok gelegd'.*
+## Hakblok 
+
+En toen was daar Trump. In een online nieuwsbericht [^RTL] van 10 maart 2025  kopt RTL: *Overheidsdiensten enorm afhankelijk van Amerikaanse cloud: 'Hoofd op hakblok gelegd'.*
 
 In een recent [rondetafelgesprek](https://berthub.eu/articles/posts/digitale-soevereiniteit-rijksoverheid-13-februari-2025/) van de Tweede Kamer maken experts zoals Bert Hubert en [Marietje Schaake](https://www.atlascontact.nl/boek/de-tech-coup/) heel duidelijk dat we niet veilig zijn. De Nederlandse overheid is inmiddels vrijwel volledig afhankelijk van diensten van bedrijven uit de VS, dat onder Trump een nieuwe, en onvoorspelbare koers vaart. Het voorbeeld van het Internationaal Strafhof laat zien dat Trump in staat is om met een enkele Executive Order organisaties lam te leggen door sancties op te leggen aan toeleveranciers zoals Microsoft. Niet veilig dus. Daarom moeten we als overheid proberen [de afhankelijkheid van Amerikaanse Big Tech te verkleinen](https://decorrespondent.nl/15937/europa-is-veel-te-afhankelijk-van-amerikaanse-tech-waar-blijft-het-nederlandse-crisisteam-dat-onze-eigen-cloud-optuigt/c40b007b-e05b-02cb-0621-afbdd436514a). 
 
@@ -32,5 +33,5 @@ Het kan ook anders. De wereld van Open Science laat zien dat enthousiaste onderz
 [^BIO]: https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/
 
 
-https://www.rtl.nl/nieuws/economie/artikel/5497862/cloudgebruik-nederlandse-overheid-microsoft-google-amazon 
+[^RTL]: https://www.rtl.nl/nieuws/economie/artikel/5497862/cloudgebruik-nederlandse-overheid-microsoft-google-amazon 
 
