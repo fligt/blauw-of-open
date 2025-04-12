@@ -18,16 +18,9 @@ En toen was daar Trump. In een online nieuwsbericht van 10 maart 2025  kopt RTL:
 
 ## Fuik 
 
-Om te begrijpen hoe we in deze hachelijke situatie terecht zijn gekomen en waarom het, met name voor ons als overheid, zo moeilijk is om hieruit te geraken moeten we terug in de geschiedenis. In hun zorgvuldig gedocumenteerde boek *The Big Con - How the Consultancy Industry Weakens our Businesses, Infantalizes our Governments and Warps our Economies,* beschrijven Mariana Mazzucato en Rosie Collington hoe sinds de jaren '80 overheden onder het mom van efficiency steeds meer taken aan het bedrijfsleven hebben uitbesteed. En dat geldt zeker voor digitalisering. 'Niet onze kerntaak, wij voeren alleen de regie', wordt gezegd. Maar hoe kan je regie voeren over iets wat je niet begrijpt? Wat gebeurt er met het brein van een organisatie als het niet meer kan leren door te doen, omdat het het doen heeft uitbesteed? 
+Om te begrijpen hoe we in deze hachelijke situatie terecht zijn gekomen en waarom het, met name voor ons als overheid, zo moeilijk is om hieruit te geraken moeten we terug in de geschiedenis. In hun zorgvuldig gedocumenteerde boek *The Big Con - How the Consultancy Industry Weakens our Businesses, Infantalizes our Governments and Warps our Economies* beschrijven Mariana Mazzucato[^MAZ] en Rosie Collington hoe sinds de jaren '80 overheden onder het mom van efficiency steeds meer taken aan het bedrijfsleven hebben uitbesteed. En dat geldt zeker voor digitalisering. 'Niet onze kerntaak, wij voeren alleen de regie', wordt gezegd. Maar hoe kan je regie voeren over iets wat je niet begrijpt? Wat gebeurt er met het brein van een organisatie als het niet meer kan leren door te doen, omdat het het doen heeft uitbesteed? 
 
-`verder uitwerken` 
-  
-
-Deze trend heeft zich in de loop van de jaren geconsolideerd tot in de haarvaten van onze overheid door richtlijnen, kaders en beleid die het uitbesteden van digitalisering tot norm hebben verheven. Hierdoor is er nu sprake van 
-
- waardoor die het  complete monopolie van Microsoft in onze kantooromgeving en in onze hoofden hebben versterkt en alternatieven hebben verdrongen. Dieper in de fuik. 
-
- `Ook nog andere gevolgen noemen` 
+Deze trend heeft zich in de loop van de jaren geconsolideerd tot in de haarvaten van onze overheid door richtlijnen, kaders en beleid die het uitbesteden van digitalisering tot hoogste norm hebben verheven. De gevolgen hiervan zijn overal in ons digitale landschap zichtbaar. Het ontbreekt ons aan nerds waardoor we zelfs de kleinste problemen met onze digitale systemen niet zelf kunnen oplossen. Alle grote databases (bronapplicaties genoemd) worden buiten ons zicht gebouwd, gehost en beheerd door externe commerciële partijen. De kantoorlaptops waarmee wij worden geacht te werken, zijn volkomen dichtgetimmerd, waardoor het onmogelijk is er iets anders mee te doen dan typen.  Het  complete monopolie van Microsoft in onze kantooromgeving en in de hoofden van ons management heeft met succes  alternatieven verdrongen. Dieper in de fuik. 
 
 ## Keuken 
 
@@ -48,4 +41,5 @@ Het kan ook anders. De wereld van Open Science laat zien dat enthousiaste onderz
 
 [^COR]: https://decorrespondent.nl/15937/europa-is-veel-te-afhankelijk-van-amerikaanse-tech-waar-blijft-het-nederlandse-crisisteam-dat-onze-eigen-cloud-optuigt/c40b007b-e05b-02cb-0621-afbdd436514a)
 
+[^MAZ]: https://youtu.be/oj9qb6kDck0
 
