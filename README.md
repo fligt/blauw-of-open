@@ -26,13 +26,19 @@ Deze trend heeft zich in de loop van de jaren geconsolideerd tot in de haarvaten
 
 Het kan ook anders. De wereld van vrije, open source software laat zien dat enthousiaste individuen  wereldwijd creatief met elkaar kunnen samenwerken en problemen kunnen oplossen door open source software te bouwen. De twee solide peilers onder dit succes zijn enerzijds een infrastructuur van vrije en open source software tools, zoals het Linux operating systeem, en anderzijds de open source licenties die garanderen dat iedereen vrij is om open source software te gebruiken, ervan te leren, aan te passen en te delen. In je keuken laten kijken heet dat. Uitproberen, fouten maken, leren, verbeteren. 
 
+Hoewel open source een grassroots karakter heeft, betekent dit niet dat open source communities enkel bestaan uit goedwillende onbetaalde amateurs. Een tegenvoorbeeld is de Linux kernel waaraan sinds 2005, "zo'n 14000 individuele ontwikkelaars vanuit 1300 verschillende bedrijven hebben bijgedragen".[^LIN] 
+
 ## Kootwijk 
 
-We kunnen onze 
+We zitten dus nog midden in een nachtmerrie. En het zal nog heel veel bloed,zweet, tranen en geld kosten om onze digitale autonomie te herwinnen. Technisch lastig, maar open source lijkt ons hier een uitweg te bieden. We moeten hiervoor aansluiting zoeken bij landelijke en europese initiatieven voor de verdere ontwikkeling van een 'stack' van open source technologien. 
 
-Mits goed geïmplementeerd en ondersteund, biedt het gebruik van open software vele voordelen aan bedrijven en overheden die nu onvoldoende op waarde worden geschat. Transparantie, veiligheid en autonomie zijn blijken cruciaal voor 
+Maar dit gaat alleen lukken als ons management de urgentie van onze situatie erkent. 
 
-`Verder uitwerken welke randvoorwaarden zoals inkoopvoorwaarden nodig zijn`  
+
+
+
+
+`Verder uitwerken welke randvoorwaarden zoals inkoopvoorwaarden en personeelsbeleid nodig zijn`  
 
 
 [^BIO]: https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/
@@ -47,4 +53,6 @@ Mits goed geïmplementeerd en ondersteund, biedt het gebruik van open software v
 [^COR]: https://decorrespondent.nl/15937/europa-is-veel-te-afhankelijk-van-amerikaanse-tech-waar-blijft-het-nederlandse-crisisteam-dat-onze-eigen-cloud-optuigt/c40b007b-e05b-02cb-0621-afbdd436514a)
 
 [^MAZ]: https://youtu.be/oj9qb6kDck0
+
+[^LIN]: https://www.linux.com/news/who-contributes-linux-kernel/
 
