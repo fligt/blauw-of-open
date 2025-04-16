@@ -28,17 +28,13 @@ Het kan ook anders. De wereld van vrije, open source software laat zien dat enth
 
 Hoewel open source een grassroots karakter heeft, betekent dit niet dat open source communities enkel bestaan uit goedwillende onbetaalde amateurs. Een tegenvoorbeeld is de Linux kernel waaraan sinds 2005, "zo'n 14000 individuele ontwikkelaars vanuit 1300 verschillende bedrijven hebben bijgedragen".[^LIN] 
 
-## Kootwijk 
+## Omdenken 
 
-We zitten dus nog midden in een nachtmerrie. En het zal nog heel veel bloed,zweet, tranen en geld kosten om onze digitale autonomie te herwinnen. Technisch lastig, maar open source lijkt ons hier een uitweg te bieden. We moeten hiervoor aansluiting zoeken bij landelijke en europese initiatieven voor de verdere ontwikkeling van een 'stack' van open source technologien. 
+Maar we zitten nu dus nog midden in een nachtmerrie. En het zal nog heel veel bloed, zweet, tranen en geld kosten om onze digitale autonomie te herwinnen. Technisch lastig, maar open source lijkt ons hier een uitweg te bieden. We moeten hiervoor aansluiting zoeken bij landelijke en europese initiatieven voor de verdere ontwikkeling van een 'stack' van open source technologiën te investeren in het hele ecosysteem dat nodig is om deze systemen op grote schaal te implementeren. 
 
-Maar dit gaat alleen lukken als ons management de urgentie van onze situatie erkent. 
+Cruciaal hierbij is wel dat dit alleen gaat lukken als ons management de urgentie van onze situatie erkent en dit weet te vertalen in een nieuwe manier van werken: andere investeringen op basis van open source inkoopvoorwaarden, en een ander personeelsbeleid dat erop gericht moet zijn om digitale expertise serieus te nemen. En dat is dus wel even omdenken in een ambtelijke hierarchisch georganiseerde dienst...
 
-
-
-
-
-`Verder uitwerken welke randvoorwaarden zoals inkoopvoorwaarden en personeelsbeleid nodig zijn`  
+`nog wat meer referenties naar open source` 
 
 
 [^BIO]: https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/
