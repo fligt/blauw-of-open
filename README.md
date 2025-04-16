@@ -30,7 +30,7 @@ Hoewel open source een grassroots karakter heeft, betekent dit niet dat open sou
 
 ## Omdenken 
 
-Maar we zitten nu dus nog midden in een nachtmerrie. En het zal nog heel veel bloed, zweet, tranen en geld kosten om onze digitale autonomie te herwinnen. Technisch lastig, maar open source lijkt ons hier een uitweg te bieden. We moeten hiervoor aansluiting zoeken bij landelijke en europese initiatieven voor de verdere ontwikkeling van een 'stack' van open source technologiën te investeren in het hele ecosysteem dat nodig is om deze systemen op grote schaal te implementeren. 
+Maar we zitten nu dus nog midden in een nachtmerrie. En het zal nog heel veel bloed, zweet, tranen en geld kosten om onze digitale autonomie te herwinnen. Technisch lastig, maar open source lijkt ons hier een uitweg te bieden. We moeten hiervoor aansluiting zoeken bij landelijke en europese initiatieven voor de verdere ontwikkeling van een 'stack' van open source technologiën om te investeren in het hele ecosysteem dat nodig is om deze systemen op grote schaal te implementeren. 
 
 Cruciaal hierbij is wel dat dit alleen gaat lukken als ons management de urgentie van onze situatie erkent en dit weet te vertalen in een nieuwe manier van werken: andere investeringen op basis van open source inkoopvoorwaarden, en een ander personeelsbeleid dat erop gericht moet zijn om digitale expertise serieus te nemen. En dat is dus wel even omdenken in een ambtelijke hierarchisch georganiseerde dienst...
 
