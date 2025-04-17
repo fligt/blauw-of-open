@@ -5,7 +5,7 @@
 
 **Auteurs: Sablina Vis en Frank Ligterink** 
 
-> In het kader van de collegereeks 'Tech en Traditie' is ons gevraagd een essay te schrijven over de vraag welke digitale innovaties onze organisatie vooruit zouden kunnen helpen. 
+> In het kader van de collegereeks 'Tech en Traditie' is ons gevraagd een essay te schrijven over de vraag welke digitale innovaties onze organisatie vooruit zouden kunnen helpen. Ons antwoord is: omarm open source. 
 > 
 
 ## Hakblok 
