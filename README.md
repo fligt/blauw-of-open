@@ -30,7 +30,7 @@ Hoewel open source een grassroots karakter heeft, betekent dit niet dat open sou
 
 ## Omdenken 
 
-Maar we zitten nu dus nog midden in een nachtmerrie. En het zal nog heel veel bloed, zweet, tranen en geld kosten om onze digitale autonomie te herwinnen. Technisch lastig, maar open source lijkt ons hier een uitweg te bieden. We moeten hiervoor aansluiting zoeken bij landelijke en europese initiatieven voor de verdere ontwikkeling van een 'stack' van open source technologiën om te investeren in het hele ecosysteem dat nodig is om deze systemen op grote schaal te implementeren. 
+Maar we zitten nu dus nog midden in een nachtmerrie. En het zal nog heel veel bloed, zweet, tranen en geld kosten om onze digitale autonomie te herwinnen. Technisch lastig, maar open source lijkt ons hier een uitweg te bieden. We moeten hiervoor aansluiting zoeken bij landelijke en europese initiatieven voor de verdere ontwikkeling van een 'stack' van open source technologiën om te investeren in het hele ecosysteem dat nodig is om deze systemen op grote schaal te implementeren.[^LINC]
 
 Cruciaal hierbij is wel dat dit alleen gaat lukken als ons management de urgentie van onze situatie erkent en dit weet te vertalen in een nieuwe manier van werken: andere investeringen op basis van open source inkoopvoorwaarden, en een ander personeelsbeleid dat erop gericht moet zijn om digitale expertise serieus te nemen. En dat is dus wel even omdenken in een ambtelijke hierarchisch georganiseerde dienst.
 
@@ -55,6 +55,8 @@ Alleen door actief bij te dragen aan dit soort initiatieven kunnen we echt de co
 [^MAZ]: VPRO Tegenlicht. (2015, December 17). De macht van Big Tech [Video]. YouTube. https://youtu.be/oj9qb6kDck0
 
 [^LIN]: Linux Foundation. (2017, January 18). Who Contributes to the Linux Kernel? Linux.com.  https://www.linux.com/news/who-contributes-linux-kernel/
+
+[^LINC]: Licenseware. (2025, april 11). From Microsoft to Open Source: How One German State is Rewriting the Rules of Public Sector IT. Licenseware. https://licenseware.io/from-microsoft-to-open-source-how-one-german-state-is-rewriting-the-rules-of-public-sector-it/
 
 [^PLANB]: Opensourcewerken. (2024, juli 19). Plan B voor Microsoft 365 is in ontwikkeling: je moet niet alles zelf doen, maar wél zelf de baas zijn. Opensourcewerken.nl. https://opensourcewerken.nl/blog/view/fdf6860a-2605-4a98-9e72-f492bfce2ac7/plan-b-voor-microsoft-365-is-in-ontwikkeling-je-moet-niet-alles-zelf-doen-maar-wel-zelf-de-baas-zijn
 
