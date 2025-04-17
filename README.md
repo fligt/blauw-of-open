@@ -38,8 +38,6 @@ Maar het kán wel. Er zijn al stappen gezet binnen de overheid richting een mani
 
 Alleen door actief bij te dragen aan dit soort initiatieven kunnen we echt de controle herwinnen over onze digitale infrastructuur. Het is tijd om de handen uit de mouwen te steken en samen te bouwen aan een soevereine digitale toekomst.[^SOFT]
 
-`nog wat meer referenties naar open source` 
-
 
 [^BIO]: Digitale Overheid. (2025, april 1). Baseline Informatiebeveiliging Overheid. https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/
 
