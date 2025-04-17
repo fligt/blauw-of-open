@@ -37,18 +37,18 @@ Cruciaal hierbij is wel dat dit alleen gaat lukken als ons management de urgenti
 `nog wat meer referenties naar open source` 
 
 
-[^BIO]: https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/
+[^BIO]: Digitale Overheid. (2025, april 1). Baseline Informatiebeveiliging Overheid. https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/
 
 
-[^RTL]: https://www.rtl.nl/nieuws/economie/artikel/5497862/cloudgebruik-nederlandse-overheid-microsoft-google-amazon 
+[^RTL]: Koenis, C. (2025, March 10). Overheidsdiensten enorm afhankelijk van Amerikaanse cloud: 'Hoofd op hakblok gelegd'. RTL Nieuws. https://www.rtl.nl/nieuws/economie/artikel/5497862/cloudgebruik-nederlandse-overheid-microsoft-google-amazon 
 
-[^TK]: https://berthub.eu/articles/posts/digitale-soevereiniteit-rijksoverheid-13-februari-2025/ 
+[^TK]: Hubert, B. (2025, February 15). Rondetafelgesprek Tweede Kamer Digitale Soevereiniteit Rijksoverheid 13 Februari 2025. https://berthub.eu/articles/posts/digitale-soevereiniteit-rijksoverheid-13-februari-2025/ 
 
-[^MS]: https://www.atlascontact.nl/boek/de-tech-coup/ 
+[^MS]: Schaake, M. (2024). De tech coup: Hoe tech is gaan regeren en we de macht weer terugwinnen. Atlas Contact. https://www.atlascontact.nl/boek/de-tech-coup/ 
 
-[^COR]: https://decorrespondent.nl/15937/europa-is-veel-te-afhankelijk-van-amerikaanse-tech-waar-blijft-het-nederlandse-crisisteam-dat-onze-eigen-cloud-optuigt/c40b007b-e05b-02cb-0621-afbdd436514a)
+[^COR]: Van Daalen, O. (2025, March 10). Europa is veel te afhankelijk van Amerikaanse tech. Waar blijft het Nederlandse crisisteam dat onze eigen cloud optuigt? De Correspondent. https://decorrespondent.nl/15937/europa-is-veel-te-afhankelijk-van-amerikaanse-tech-waar-blijft-het-nederlandse-crisisteam-dat-onze-eigen-cloud-optuigt/c40b007b-e05b-02cb-0621-afbdd436514a 
 
-[^MAZ]: https://youtu.be/oj9qb6kDck0
+[^MAZ]: VPRO Tegenlicht. (2015, December 17). De macht van Big Tech [Video]. YouTube. https://youtu.be/oj9qb6kDck0
 
-[^LIN]: https://www.linux.com/news/who-contributes-linux-kernel/
+[^LIN]: Linux Foundation. (2017, January 18). Who Contributes to the Linux Kernel? Linux.com.  https://www.linux.com/news/who-contributes-linux-kernel/
 
