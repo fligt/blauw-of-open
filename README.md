@@ -14,7 +14,7 @@ Tot voor kort beperkte de discussie over het gebruik van Amerikaanse clouddienst
 
 
 
-En toen was daar Trump. In een online nieuwsbericht van 10 maart 2025  kopt RTL: *Overheidsdiensten enorm afhankelijk van Amerikaanse cloud: 'Hoofd op hakblok gelegd'.* [^RTL] In een recent rondetafelgesprek van de Tweede Kamer[^TK] maken experts zoals Bert Hubert en Marietje Schaake[^MS] heel duidelijk dat we niet veilig zijn. De Nederlandse overheid is inmiddels vrijwel volledig afhankelijk van diensten van bedrijven uit de VS, dat onder Trump een nieuwe, en onvoorspelbare koers vaart. Het voorbeeld van het Internationaal Strafhof laat zien dat Trump in staat is om met een enkele Executive Order organisaties lam te leggen door sancties op te leggen aan toeleveranciers zoals Microsoft. Niet veilig dus. Daarom moeten we als overheid proberen de afhankelijkheid van Amerikaanse Big Tech te verkleinen[^COR]. 
+En toen was daar Trump. In een online nieuwsbericht van 10 maart 2025  kopt RTL: *Overheidsdiensten enorm afhankelijk van Amerikaanse cloud: 'Hoofd op hakblok gelegd'.* [^RTL] In een recent rondetafelgesprek van de Tweede Kamer[^TK] maken experts zoals Bert Hubert[^BERT] en Marietje Schaake[^MS] heel duidelijk dat we niet veilig zijn. De Nederlandse overheid is inmiddels vrijwel volledig afhankelijk van diensten van bedrijven uit de VS, dat onder Trump een nieuwe, en onvoorspelbare koers vaart. Het voorbeeld van het Internationaal Strafhof laat zien dat Trump in staat is om met een enkele Executive Order organisaties lam te leggen door sancties op te leggen aan toeleveranciers zoals Microsoft. Niet veilig dus. Daarom moeten we als overheid proberen de afhankelijkheid van Amerikaanse Big Tech te verkleinen[^COR]. 
 
 ## Fuik 
 
@@ -36,7 +36,7 @@ Cruciaal hierbij is wel dat dit alleen gaat lukken als ons management de urgenti
 
 Maar het kán wel. Er zijn al stappen gezet binnen de overheid richting een manier van werken die onafhankelijk is van Big Tech. Een recent voorbeeld is het initiatief 'Plan B voor Microsoft 365', een open source alternatief voor Microsoft 365 dat wordt ontwikkeld door een groep overheidsorganisaties. Het doel is om een digitale omgeving te creëren waarbij de overheid zelf de regie heeft over de IT-infrastructuur en dataopslag. Zoals het initiatief zelf stelt: "Je moet niet alles zelf doen, maar wél zelf de baas zijn."[^PLANB]
 
-Alleen door actief bij te dragen aan dit soort initiatieven kunnen we echt de controle herwinnen over onze digitale infrastructuur. Het is tijd om de handen uit de mouwen te steken en samen te bouwen aan een soevereine digitale toekomst.[^SOFT]
+Alleen door actief bij te dragen aan dit soort initiatieven kunnen we echt de controle herwinnen over onze digitale infrastructuur[^PUBL]. Het is tijd om de handen uit de mouwen te steken en samen te bouwen aan een soevereine digitale toekomst.[^SOFT]
 
 
 [^BIO]: Digitale Overheid. (2025, april 1). Baseline Informatiebeveiliging Overheid. https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/
@@ -45,6 +45,8 @@ Alleen door actief bij te dragen aan dit soort initiatieven kunnen we echt de co
 [^RTL]: Koenis, C. (2025, March 10). Overheidsdiensten enorm afhankelijk van Amerikaanse cloud: 'Hoofd op hakblok gelegd'. RTL Nieuws. https://www.rtl.nl/nieuws/economie/artikel/5497862/cloudgebruik-nederlandse-overheid-microsoft-google-amazon 
 
 [^TK]: Hubert, B. (2025, February 15). Rondetafelgesprek Tweede Kamer Digitale Soevereiniteit Rijksoverheid 13 Februari 2025. https://berthub.eu/articles/posts/digitale-soevereiniteit-rijksoverheid-13-februari-2025/ 
+
+[^BERT]: Hubert, B. (2024, June 7). Digitale autonomie (lezing PublicSpaces Conferentie 2024) [Video]. https://conference.publicspaces.net/session/digital-autonomy
 
 [^MS]: Schaake, M. (2024). De tech coup: Hoe tech is gaan regeren en we de macht weer terugwinnen. Atlas Contact. https://www.atlascontact.nl/boek/de-tech-coup/ 
 
@@ -56,7 +58,9 @@ Alleen door actief bij te dragen aan dit soort initiatieven kunnen we echt de co
 
 [^LINC]: Licenseware. (2025, april 11). From Microsoft to Open Source: How One German State is Rewriting the Rules of Public Sector IT. Licenseware. https://licenseware.io/from-microsoft-to-open-source-how-one-german-state-is-rewriting-the-rules-of-public-sector-it/
 
-[^PLANB]: Opensourcewerken. (2024, juli 19). Plan B voor Microsoft 365 is in ontwikkeling: je moet niet alles zelf doen, maar wél zelf de baas zijn. Opensourcewerken.nl. https://opensourcewerken.nl/blog/view/fdf6860a-2605-4a98-9e72-f492bfce2ac7/plan-b-voor-microsoft-365-is-in-ontwikkeling-je-moet-niet-alles-zelf-doen-maar-wel-zelf-de-baas-zijn
+[^PLANB]: Opensourcewerken. (2024, juli 19). Plan B voor Microsoft 365 is in ontwikkeling: je moet niet alles zelf doen, maar wél zelf de baas zijn. Opensourcewerken.nl. https://opensourcewerken.nl/blog/view/fdf6860a-2605-4a98-9e72-f492bfce2ac7/plan-b-voor-microsoft-365-is-in-ontwikkeling-je-moet-niet-alles-zelf-doen-maar-wel-zelf-de-baas-zijn 
+
+[^PUBL]: PublicSpaces Hersenspoeling Workshop: We zijn te afhankelijk van bigtech [Video]. https://video.publicspaces.net/w/1G4Ehkh5FbUwyLUx9qay8u
 
 [^SOFT]: Galbraith, A. (2024, juli 19). Digitale soevereiniteit: Wat het is — en waarom het belangrijk is voor je bedrijf. SoftwareOne. https://www.softwareone.com/nl-be/blog/articles/2024/07/19/digital-sovereignty-what-it-is-and-why-it-matters-to-your-business
 
