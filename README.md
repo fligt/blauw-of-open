@@ -60,7 +60,7 @@ Alleen door actief bij te dragen aan dit soort initiatieven kunnen we echt de co
 
 [^PLANB]: Opensourcewerken. (2024, juli 19). Plan B voor Microsoft 365 is in ontwikkeling: je moet niet alles zelf doen, maar wél zelf de baas zijn. Opensourcewerken.nl. https://opensourcewerken.nl/blog/view/fdf6860a-2605-4a98-9e72-f492bfce2ac7/plan-b-voor-microsoft-365-is-in-ontwikkeling-je-moet-niet-alles-zelf-doen-maar-wel-zelf-de-baas-zijn 
 
-[^PUBL]: PublicSpaces Hersenspoeling Workshop: We zijn te afhankelijk van bigtech [Video]. https://video.publicspaces.net/w/1G4Ehkh5FbUwyLUx9qay8u
+[^PUBL]: PublicSpaces. (2014) PublicSpaces Hersenspoeling Workshop: We zijn te afhankelijk van bigtech [Video]. https://video.publicspaces.net/w/1G4Ehkh5FbUwyLUx9qay8u
 
 [^SOFT]: Galbraith, A. (2024, juli 19). Digitale soevereiniteit: Wat het is — en waarom het belangrijk is voor je bedrijf. SoftwareOne. https://www.softwareone.com/nl-be/blog/articles/2024/07/19/digital-sovereignty-what-it-is-and-why-it-matters-to-your-business
 
