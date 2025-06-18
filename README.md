@@ -39,28 +39,29 @@ Maar het kán wel. Er zijn al stappen gezet binnen de overheid richting een mani
 Alleen door actief bij te dragen aan dit soort initiatieven kunnen we echt de controle herwinnen over onze digitale infrastructuur[^PUBL]. Het is tijd om de handen uit de mouwen te steken en samen te bouwen aan een soevereine digitale toekomst.[^SOFT]
 
 
-[^BIO]: Digitale Overheid. (2025, april 1). Baseline Informatiebeveiliging Overheid. https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/
+[^BIO]: Digitale Overheid. (2025, april 1). Baseline Informatiebeveiliging Overheid. [https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/)
 
 
-[^RTL]: Koenis, C. (2025, March 10). Overheidsdiensten enorm afhankelijk van Amerikaanse cloud: 'Hoofd op hakblok gelegd'. RTL Nieuws. https://www.rtl.nl/nieuws/economie/artikel/5497862/cloudgebruik-nederlandse-overheid-microsoft-google-amazon 
+[^RTL]: Koenis, C. (2025, March 10). Overheidsdiensten enorm afhankelijk van Amerikaanse cloud: 'Hoofd op hakblok gelegd'. RTL Nieuws. [https://www.rtl.nl/nieuws/economie/artikel/5497862/cloudgebruik-nederlandse-overheid-microsoft-google-amazon](https://www.rtl.nl/nieuws/economie/artikel/5497862/cloudgebruik-nederlandse-overheid-microsoft-google-amazon) 
 
-[^TK]: Hubert, B. (2025, February 15). Rondetafelgesprek Tweede Kamer Digitale Soevereiniteit Rijksoverheid 13 Februari 2025. https://berthub.eu/articles/posts/digitale-soevereiniteit-rijksoverheid-13-februari-2025/ 
+[^TK]: Hubert, B. (2025, February 15). Rondetafelgesprek Tweede Kamer Digitale Soevereiniteit Rijksoverheid 13 Februari 2025. [https://berthub.eu/articles/posts/digitale-soevereiniteit-rijksoverheid-13-februari-2025/](https://berthub.eu/articles/posts/digitale-soevereiniteit-rijksoverheid-13-februari-2025/) 
 
-[^BERT]: Hubert, B. (2024, June 7). Digitale autonomie (lezing PublicSpaces Conferentie 2024) [Video]. https://conference.publicspaces.net/session/digital-autonomy
+[^BERT]: Hubert, B. (2024, June 7). Digitale autonomie (lezing PublicSpaces Conferentie 2024) [Video]. [https://conference.publicspaces.net/session/digital-autonomy](https://conference.publicspaces.net/session/digital-autonomy)
 
-[^MS]: Schaake, M. (2024). De tech coup: Hoe tech is gaan regeren en we de macht weer terugwinnen. Atlas Contact. https://www.atlascontact.nl/boek/de-tech-coup/ 
+[^MS]: Schaake, M. (2024). De tech coup: Hoe tech is gaan regeren en we de macht weer terugwinnen. Atlas Contact. [https://www.atlascontact.nl/boek/de-tech-coup/](https://www.atlascontact.nl/boek/de-tech-coup/) 
 
-[^COR]: Van Daalen, O. (2025, March 10). Europa is veel te afhankelijk van Amerikaanse tech. Waar blijft het Nederlandse crisisteam dat onze eigen cloud optuigt? De Correspondent. https://decorrespondent.nl/15937/europa-is-veel-te-afhankelijk-van-amerikaanse-tech-waar-blijft-het-nederlandse-crisisteam-dat-onze-eigen-cloud-optuigt/c40b007b-e05b-02cb-0621-afbdd436514a 
+[^COR]: Van Daalen, O. (2025, March 10). Europa is veel te afhankelijk van Amerikaanse tech. Waar blijft het Nederlandse crisisteam dat onze eigen cloud optuigt? De Correspondent. [https://decorrespondent.nl/15937/europa-is-veel-te-afhankelijk-van-amerikaanse-tech-waar-blijft-het-nederlandse-crisisteam-dat-onze-eigen-cloud-optuigt/c40b007b-e05b-02cb-0621-afbdd436514a](https://decorrespondent.nl/15937/europa-is-veel-te-afhankelijk-van-amerikaanse-tech-waar-blijft-het-nederlandse-crisisteam-dat-onze-eigen-cloud-optuigt/c40b007b-e05b-02cb-0621-afbdd436514a) 
 
-[^MAZ]: VPRO Tegenlicht. (2015, December 17). De macht van Big Tech [Video]. YouTube. https://youtu.be/oj9qb6kDck0
+[^MAZ]: VPRO Tegenlicht. (2015, December 17). De macht van Big Tech [Video]. YouTube. [https://youtu.be/oj9qb6kDck0](https://decorrespondent.nl/15937/europa-is-veel-te-afhankelijk-van-amerikaanse-tech-waar-blijft-het-nederlandse-crisisteam-dat-onze-eigen-cloud-optuigt/c40b007b-e05b-02cb-0621-afbdd436514a)
 
-[^LIN]: Linux Foundation. (2017, January 18). Who Contributes to the Linux Kernel? Linux.com.  https://www.linux.com/news/who-contributes-linux-kernel/
+[^LIN]: Linux Foundation. (2017, January 18). Who Contributes to the Linux Kernel? Linux.com.  [https://www.linux.com/news/who-contributes-linux-kernel/](https://www.linux.com/news/who-contributes-linux-kernel/)
 
-[^LINC]: Licenseware. (2025, april 11). From Microsoft to Open Source: How One German State is Rewriting the Rules of Public Sector IT. Licenseware. https://licenseware.io/from-microsoft-to-open-source-how-one-german-state-is-rewriting-the-rules-of-public-sector-it/
+[^LINC]: Licenseware. (2025, april 11). From Microsoft to Open Source: How One German State is Rewriting the Rules of Public Sector IT. Licenseware. [https://licenseware.io/from-microsoft-to-open-source-how-one-german-state-is-rewriting-the-rules-of-public-sector-it/](https://licenseware.io/from-microsoft-to-open-source-how-one-german-state-is-rewriting-the-rules-of-public-sector-it/)
 
-[^PLANB]: Opensourcewerken. (2024, juli 19). Plan B voor Microsoft 365 is in ontwikkeling: je moet niet alles zelf doen, maar wél zelf de baas zijn. Opensourcewerken.nl. https://opensourcewerken.nl/blog/view/fdf6860a-2605-4a98-9e72-f492bfce2ac7/plan-b-voor-microsoft-365-is-in-ontwikkeling-je-moet-niet-alles-zelf-doen-maar-wel-zelf-de-baas-zijn 
+[^PLANB]: Opensourcewerken. (2024, juli 19). Plan B voor Microsoft 365 is in ontwikkeling: je moet niet alles zelf doen, maar wél zelf de baas zijn. Opensourcewerken.nl. [https://opensourcewerken.nl/blog/view/fdf6860a-2605-4a98-9e72-f492bfce2ac7/plan-b-voor-microsoft-365-is-in-ontwikkeling-je-moet-niet-alles-zelf-doen-maar-wel-zelf-de-baas-zijn](https://opensourcewerken.nl/blog/view/fdf6860a-2605-4a98-9e72-f492bfce2ac7/plan-b-voor-microsoft-365-is-in-ontwikkeling-je-moet-niet-alles-zelf-doen-maar-wel-zelf-de-baas-zijn) 
 
-[^PUBL]: PublicSpaces. (2024) PublicSpaces Hersenspoeling Workshop: We zijn te afhankelijk van bigtech [Video]. https://video.publicspaces.net/w/1G4Ehkh5FbUwyLUx9qay8u
+[^PUBL]: PublicSpaces. (2024) PublicSpaces Hersenspoeling Workshop: We zijn te afhankelijk van bigtech [Video]. [https://video.publicspaces.net/w/1G4Ehkh5FbUwyLUx9qay8u](https://video.publicspaces.net/w/1G4Ehkh5FbUwyLUx9qay8u)
 
-[^SOFT]: Galbraith, A. (2024, juli 19). Digitale soevereiniteit: Wat het is — en waarom het belangrijk is voor je bedrijf. SoftwareOne. https://www.softwareone.com/nl-be/blog/articles/2024/07/19/digital-sovereignty-what-it-is-and-why-it-matters-to-your-business
+[^SOFT]: Galbraith, A. (2024, juli 19). Digitale soevereiniteit: Wat het is — en waarom het belangrijk is voor je bedrijf. SoftwareOne. [https://www.softwareone.com/nl-be/blog/articles/2024/07/19/digital-sovereignty-what-it-is-and-why-it-matters-to-your-business](https://www.softwareone.com/nl-be/blog/articles/2024/07/19/digital-sovereignty-what-it-is-and-why-it-matters-to-your-business)
+
 
